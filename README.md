@@ -11,8 +11,7 @@ This is my repo to maintain and track my hacker rank solutions.
 4) <a href = "https://www.hackerrank.com/challenges/queens-attack-2/problem"><b>Queens Attack 2</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/blob/master/QueensAttack2.py"><i>Solution</i></a>
 5) <a href = "https://www.hackerrank.com/challenges/organizing-containers-of-balls/problem"><b>Organizing Containers of balls</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/blob/master/organizing_containers_of_balls.py"><i>Solution</i></a>
 6) <a href = "https://www.hackerrank.com/challenges/sherlock-and-gcd/problem?h_r=internal-search"><b>Sherlock and GCD</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/blob/master/sherlock_and_gcd.py"><i>Solution</i></a>
-<!-- 7) <a href = ""><b></b></a>   <a href = ""><i></i></a>
-8) <a href = ""><b></b></a>   <a href = ""><i></i></a>
-9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
-10) <a href = ""><b></b></a>   <a href = ""><i></i></a> -->
+7) <a href = "https://www.hackerrank.com/challenges/sock-merchant/"><b>Sock Merchant</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/tree/master/Interview%20Preparation%20Kit/SockMerchant"><i>Solution</i></a>
+<!-- 8) <a href = ""><b></b></a>   <a href = ""><i></i></a>
+9) <a href = ""><b></b></a>   <a href = ""><i></i></a> -->
 
