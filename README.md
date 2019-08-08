@@ -13,4 +13,20 @@ This is my repo to maintain and track my hacker rank solutions.
 6) <a href = "https://www.hackerrank.com/challenges/sherlock-and-gcd/problem?h_r=internal-search"><b>Sherlock and GCD</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/blob/master/sherlock_and_gcd.py"><i>Solution</i></a>
 7) <a href = "https://www.hackerrank.com/challenges/sock-merchant/"><b>Sock Merchant</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/tree/master/Interview%20Preparation%20Kit/SockMerchant"><i>Solution</i></a>
 8) <a href = "https://www.hackerrank.com/challenges/encryption/problem?isFullScreen=false"><b>Encryption</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/blob/master/encryption.py"><i>Solution</i></a>
-<!-- 9) <a href = ""><b></b></a>   <a href = ""><i></i></a> -->
+9) <a href = "https://www.hackerrank.com/challenges/bigger-is-greater/problem?isFullScreen=false"><b>Bigger is Greater</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/blob/master/bigger_is_greater.py"><i>Solution</i></a>
+<!-- 9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
+9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
+9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
+9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
+9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
+9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
+9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
+9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
+9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
+9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
+9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
+9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
+9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
+9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
+9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
+9) <a href = ""><b></b></a>   <a href = ""><i></i></a> -->
