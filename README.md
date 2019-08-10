@@ -16,9 +16,9 @@ This is my repo to maintain and track my hacker rank solutions.
 9) <a href = "https://www.hackerrank.com/challenges/bigger-is-greater/problem?isFullScreen=false"><b>Bigger is Greater</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/blob/master/bigger_is_greater.py"><i>Solution</i></a>
 10) <a href = "https://www.hackerrank.com/challenges/absolute-permutation/problem"><b>Absolute Permutation</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/blob/master/absolute_permutation.py"><i>Solution</i></a>
 11) <a href = "https://www.hackerrank.com/challenges/the-grid-search/problem"><b>The Grid Search</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/blob/master/the_grid_search.py"><i>Solution</i></a>
+12) <a href = "https://www.hackerrank.com/challenges/the-time-in-words/problem"><b>The Time in Words</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/blob/master/the_time_in_words.py"><i>Solution</i></a>
+9) <a href = "https://www.hackerrank.com/challenges/3d-surface-area/problem"><b>3D Surface Area</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/blob/master/3d_surface_area.py"><i>Solution</i></a>
 <!-- 9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
-9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
-9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
 9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
 9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
 9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
