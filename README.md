@@ -17,10 +17,10 @@ This is my repo to maintain and track my hacker rank solutions.
 10) <a href = "https://www.hackerrank.com/challenges/absolute-permutation/problem"><b>Absolute Permutation</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/blob/master/absolute_permutation.py"><i>Solution</i></a>
 11) <a href = "https://www.hackerrank.com/challenges/the-grid-search/problem"><b>The Grid Search</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/blob/master/the_grid_search.py"><i>Solution</i></a>
 12) <a href = "https://www.hackerrank.com/challenges/the-time-in-words/problem"><b>The Time in Words</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/blob/master/the_time_in_words.py"><i>Solution</i></a>
-9) <a href = "https://www.hackerrank.com/challenges/3d-surface-area/problem"><b>3D Surface Area</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/blob/master/3d_surface_area.py"><i>Solution</i></a>
-9) <a href = "https://www.hackerrank.com/challenges/two-pluses/problem"><b>Emma's Super Computer</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/blob/master/emmas_supercomputer.py"><i>Solution</i></a>
+13) <a href = "https://www.hackerrank.com/challenges/3d-surface-area/problem"><b>3D Surface Area</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/blob/master/3d_surface_area.py"><i>Solution</i></a>
+14) <a href = "https://www.hackerrank.com/challenges/two-pluses/problem"><b>Emma's Super Computer</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/blob/master/emmas_supercomputer.py"><i>Solution</i></a>
+15) <a href = "https://www.hackerrank.com/challenges/almost-sorted/problem?isFullScreen=false"><b>Almost Sorted</b></a>   <a href = "https://github.com/kumararduino/HackerRankSolutions/blob/master/almost_sorted.py"><i>Solution</i></a>
 <!-- 9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
-9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
 9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
 9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
 9) <a href = ""><b></b></a>   <a href = ""><i></i></a>
